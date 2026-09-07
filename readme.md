@@ -1,6 +1,13 @@
 # ROS 2 Simple Obstacle Avoidance 
 
----
+## Web Dev Question
+> <b> Expand to multi-page: </b> Right now it is a single crowded page. Breaking it into detailed subpages for projects, team info, and learning resources makes it much easier to read.
+
+> <b> Member portal: </b> Add a login and logout system where society members can securely check upcoming events, upcoming competitions, and exclusive learning materials.
+
+> <b>Fix mobile layout:</b> Improve the mobile interface so buttons, text, and images actually fit properly on smaller phone screens
+
+## Task 1.2 
 
 ## 🧠 The Core Idea: Sense -> Decide -> Act
 
